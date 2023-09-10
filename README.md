@@ -1,5 +1,4 @@
 # password-generator
-codsoft project
 from tkinter import *
 from random import randint
 
